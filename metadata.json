@@ -1,0 +1,7 @@
+{
+  "name": "Teste de Inteligência Emocional COMET",
+  "description": "Instrumento individual de avaliação de Inteligência Emocional em 5 dimensões com diagnóstico detalhado, mapa visual e PDI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
